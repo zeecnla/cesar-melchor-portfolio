@@ -1,0 +1,45 @@
+{
+  "name": "personal-website-nextjs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cesar Melchor's Portfolio Website - Next.js Version",
+  "author": "Cesar Melchor",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@contentful/rich-text-react-renderer": "^15.18.0",
+    "@types/node": "^22.10.2",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@types/styled-components": "^5.1.34",
+    "contentful": "^10.7.0",
+    "framer-motion": "^11.18.2",
+    "lucide-react": "^0.468.0",
+    "next": "^15.5.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "styled-components": "^6.1.13",
+    "typescript": "^5.7.2"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.15",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "^15.5.3",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15"
+  },
+  "keywords": [
+    "nextjs",
+    "portfolio",
+    "freelance",
+    "react",
+    "typescript"
+  ],
+  "license": "MIT"
+}
