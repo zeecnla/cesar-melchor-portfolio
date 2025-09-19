@@ -13,7 +13,7 @@ export const generateMetadata = ({
   title = 'Cesar Melchor - Enterprise Full-Stack Developer & SEO Expert',
   description = 'Professional full-stack developer with 8+ years of experience. Specializing in simple websites, SEO optimization, ASP.NET MVC, React, Next.js, and enterprise applications. Available for projects of all sizes.',
   url = 'https://cesarmelchor.me',
-  image = '/images/og-image.jpg',
+  image = '/images/og-image.png',
   type = 'website' as const,
   keywords = ['simple website developer', 'business website', 'SEO optimization', 'enterprise developer', 'full-stack developer', 'ASP.NET MVC', 'React', 'Next.js', 'SQL Server', 'system integration', 'custom solutions', 'web development', 'consulting', 'freelance developer', 'web design', 'search engine optimization']
 }: SEOProps = {}): Metadata => {

@@ -1,0 +1,51 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f0f9ff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGradient)"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="100" cy="100" r="50" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="1100" cy="530" r="80" fill="rgba(255,255,255,0.05)"/>
+  <circle cx="1050" cy="150" r="30" fill="rgba(255,255,255,0.1)"/>
+  
+  <!-- Main content area -->
+  <rect x="100" y="150" width="1000" height="330" rx="20" fill="rgba(255,255,255,0.1)" stroke="rgba(255,255,255,0.2)" stroke-width="2"/>
+  
+  <!-- Logo/Initials -->
+  <rect x="150" y="200" width="80" height="80" rx="15" fill="rgba(255,255,255,0.2)"/>
+  <text x="190" y="250" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle" fill="white">CM</text>
+  
+  <!-- Main heading -->
+  <text x="280" y="240" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="url(#textGradient)">Cesar Melchor</text>
+  
+  <!-- Subtitle -->
+  <text x="280" y="280" font-family="Arial, sans-serif" font-size="24" fill="rgba(255,255,255,0.9)">Enterprise Full-Stack Developer &amp; SEO Expert</text>
+  
+  <!-- Description -->
+  <text x="280" y="320" font-family="Arial, sans-serif" font-size="18" fill="rgba(255,255,255,0.8)">8+ Years Experience • Simple Websites • Enterprise Applications</text>
+  
+  <!-- Services -->
+  <text x="280" y="360" font-family="Arial, sans-serif" font-size="16" fill="rgba(255,255,255,0.7)">React • Next.js • ASP.NET MVC • SEO Optimization • System Integration</text>
+  
+  <!-- Website URL -->
+  <text x="280" y="400" font-family="Arial, sans-serif" font-size="20" font-weight="600" fill="rgba(255,255,255,0.9)">cesarmelchor.me</text>
+  
+  <!-- Decorative code elements -->
+  <text x="800" y="200" font-family="monospace" font-size="14" fill="rgba(255,255,255,0.3)">&lt;div className="portfolio"&gt;</text>
+  <text x="800" y="220" font-family="monospace" font-size="14" fill="rgba(255,255,255,0.3)">  &lt;h1&gt;Full-Stack Developer&lt;/h1&gt;</text>
+  <text x="800" y="240" font-family="monospace" font-size="14" fill="rgba(255,255,255,0.3)">  &lt;p&gt;Available for projects&lt;/p&gt;</text>
+  <text x="800" y="260" font-family="monospace" font-size="14" fill="rgba(255,255,255,0.3)">&lt;/div&gt;</text>
+  
+  <!-- Bottom accent -->
+  <rect x="0" y="600" width="1200" height="30" fill="rgba(255,255,255,0.1)"/>
+</svg>
