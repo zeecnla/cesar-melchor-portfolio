@@ -49,6 +49,10 @@ Thumbs.db
 logs
 *.log
 
+# Business development files (keep portfolio clean)
+*.md
+!README.md
+
 # Runtime data
 pids
 *.pid
